@@ -1,0 +1,119 @@
+.social__icons {
+    Width: 3.125rem;
+
+}
+
+/* Discount Text */
+.discount__text {
+    font-size: 2.8125rem;
+    font-weight: 300;
+}
+
+.default__button {
+    background-color: #5BACC3;
+    color: White;
+    border: none;
+    width: 11.25rem;
+    padding: 1.25rem;
+    margin: 1.25rem;
+    font-size: 1.313rem;
+    margin-left: 0px;
+
+}
+
+.product__icon {
+    height: 17.5rem;
+    padding-top: 1.25rem;
+
+}
+
+.discount__banner {
+    width: 90%;
+    background-color: #474a51;
+    color: white;
+    text-align: center;
+    margin: 5%;
+    padding: 2.5rem 0rem;
+}
+
+.price__colour {
+    color: #5BACC3;
+
+}
+
+.banner__text {
+    width: 45%;
+    padding: 1rem 0;
+}
+
+.banner__aligment {
+    background-color: #FFF0ED;
+    display: flex;
+    padding: 2.5rem 6.875rem;
+    justify-content: center;
+}
+
+.banner__aligment-text {
+    padding-top: 70px;
+}
+
+.product__card {
+    width: 20.625rem;
+    height: 27.5rem;
+    padding: 1.25rem;
+    /* padding-top: 4.375rem; */
+    margin: 1.25rem;
+    border-radius: 0.625rem;
+    text-align: center;
+    box-shadow: 0 0.3125rem 0.5625rem -0.0625rem rgba(0, 0, 0, 0.25);
+}
+
+.product__card-text {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+
+.product__card-aligment {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1.25rem;
+}
+
+.product__card-flex {
+    background-color: #F7F7F7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3.75rem;
+}
+
+.discount__card {
+    padding-top: 4.375rem;
+    padding-bottom: 4.375rem;
+    text-align: center;
+}
+
+.footer__card {
+    gap: 3.125rem;
+    justify-content: center;
+    padding: 2.5rem;
+}
+
+.footer__heading {
+    font-size: 2.063rem;
+    font-weight: 300;
+    padding-bottom: 1.25rem;
+}
+
+.footer__card-aligment {
+    padding-right: 10%;
+}
+
+.footer__card-font-weight {
+    font-weight: 600;
+
+}
+
+.discount__card-text {
+    font-weight: 700;
+}
